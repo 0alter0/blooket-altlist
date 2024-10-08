@@ -37,3 +37,11 @@ Blook Count: 0
 Tokens: 510
 Level: 26
 Account Tier: B
+
+Name: kcuf-wit12
+Email: igoryakova@alphabetsa.shop
+Password: fuck_OFF.129
+Blook Count: 10
+Tokens: 290
+Level: 26
+Account Tier: C
