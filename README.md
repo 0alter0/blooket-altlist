@@ -4,7 +4,29 @@ Blooket altlist is just a moderatly big list of blooket accounts, I'll update th
 
 # FAQ (no one asks this, but wanna clear up questions)
 
-Future Plans:
+Q:How are you doing this?
+A:That's the secret.
+
+Q:Is this against Blooket TOS?
+A:Yes, don't get mad at me if these alts get banned.
+
+Q:Can you make the accounts have (number) coins?
+A:No, just wait 24 hours because I will dump 500+ tokens in the accounts everyday.
+
+Q:Can you make the accounts have all the blooks?
+A:Would've already been done, but you can use Blooket Cheats to locally give all them to yourself.
+
+Q:Can you make me an account personally?
+A:No, just wait for the accounts to be added.
+
+Q:Can you buy titles/backgrounds per account?
+A:No, it would clutter up the alt list too much and doesn't really matter, buy them yourself on them.
+
+Q:Can you make an alt for (game)
+A:No.
+
+
+# Future Plans:
 
 1. Add premium alts (Just alts that will be stacked with 1000+ tokens and at least 10 blooks.)
 2. Maybe make a website that auto generates these.
