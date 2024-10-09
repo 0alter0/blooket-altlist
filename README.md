@@ -2,7 +2,7 @@
 
 Blooket altlist is just a moderatly big list of blooket accounts, I'll update these every now and then.
 
-# FAQ (no one asks this, but wanna clear up questions)
+# FAQ (no one asks these, but I wanna clear up questions)
 
 Q:How are you doing this?
 A:That's the secret.
@@ -24,6 +24,12 @@ A:No, it would clutter up the alt list too much and doesn't really matter, buy t
 
 Q:Can you make an alt for (game)
 A:No.
+
+Q:What are premium alts?
+A:Premium alts are alts that have 1000+ tokens and at least 10 blooks.
+
+Q:What are maxed alts?
+A:Maxed alts are alts that have either a full set (not including chromas), muliple full sets (not including chromas), or every blook (maybe a chroma).
 
 
 # Future Plans:
