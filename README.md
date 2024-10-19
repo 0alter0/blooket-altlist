@@ -17,7 +17,7 @@ Q:Can you make the accounts have all the blooks?
 A:Would've already been done, but you can use Blooket Cheats to locally give all them to yourself.
 
 Q:Can you make me an account personally?
-A:No, just wait for the accounts to be added.
+A:No, just wait for the accounts to be added. 
 
 Q:Can you buy titles/backgrounds per account?
 A:No, it would clutter up the alt list too much and doesn't really matter, buy them yourself on them.
