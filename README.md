@@ -4,32 +4,50 @@ Blooket altlist is just a moderatly big list of blooket accounts, I'll update th
 
 # FAQ (no one asks these, but I wanna clear up questions)
 
-Q:How are you doing this?
-A:That's the secret.
+<details>
+  <summary><strong>How are you doing this?</strong></summary>
+  That's the secret.
+</details>
 
-Q:Is this against Blooket TOS?
-A:Yes, don't get mad at me if these alts get banned.
+<details>
+  <summary><strong>Is this against Blooket TOS?</strong></summary>
+  Yes, don't get mad at me if these alts get banned.
+</details>
 
-Q:Can you make the accounts have (number) coins?
-A:No, just wait 24 hours because I will dump 500+ tokens in the accounts everyday.
+<details>
+  <summary><strong>Can you make the accounts have (number) coins?</strong></summary>
+  No, just wait 24 hours because I will dump 500+ tokens in the accounts every day.
+</details>
 
-Q:Can you make the accounts have all the blooks?
-A:Would've already been done, but you can use Blooket Cheats to locally give all them to yourself.
+<details>
+  <summary><strong>Can you make the accounts have all the blooks?</strong></summary>
+  Would've already been done, but you can use Blooket Cheats to locally give all them to yourself.
+</details>
 
-Q:Can you make me an account personally?
-A:No, just wait for the accounts to be added. 
+<details>
+  <summary><strong>Can you make me an account personally?</strong></summary>
+  No, just wait for the accounts to be added.
+</details>
 
-Q:Can you buy titles/backgrounds per account?
-A:No, it would clutter up the alt list too much and doesn't really matter, buy them yourself on them.
+<details>
+  <summary><strong>Can you buy titles/backgrounds per account?</strong></summary>
+  No, it would clutter up the alt list too much and doesn't really matter, buy them yourself on them.
+</details>
 
-Q:Can you make an alt for (game)
-A:No.
+<details>
+  <summary><strong>Can you make an alt for (game)?</strong></summary>
+  No.
+</details>
 
-Q:What are premium alts?
-A:Premium alts are alts that have 1000+ tokens and at least 10 blooks.
+<details>
+  <summary><strong>What are premium alts?</strong></summary>
+  Premium alts are alts that have 1000+ tokens and at least 10 blooks.
+</details>
 
-Q:What are maxed alts?
-A:Maxed alts are alts that have either a full set (not including chromas), muliple full sets (not including chromas), or every blook (maybe a chroma).
+<details>
+  <summary><strong>What are maxed alts?</strong></summary>
+  Maxed alts are alts that have either a full set (not including chromas), multiple full sets (not including chromas), or every blook (maybe a chroma).
+</details>
 
 
 # Future Plans:
