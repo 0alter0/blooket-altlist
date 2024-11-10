@@ -46,3 +46,5 @@ Continued due to new ways to get daily rewards. THERE IS CURRENTLY A GLITCH WHER
 # Contributors
 
 [@Soulis69420](https://github.com/Soulis69420)
+[@Hi9876543210](https://github.com/Hi9876543210)
+
