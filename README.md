@@ -44,11 +44,8 @@ A:Maxed alts are alts that have either a full set (not including chromas), mulip
 Discontinued due to Blooket converting to nextjs. Will comeback until everything is sorted out. (R.I.P)
 
 
-# blooket-altlist
-
-Blooket altlist is just a moderatly big list of blooket accounts, I'll update these every now and then.
-
 # FAQ (no one asks these, but I wanna clear up questions)
+
 
 Q:How are you doing this?
 A:That's the secret.
