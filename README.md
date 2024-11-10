@@ -41,3 +41,8 @@ A:Maxed alts are alts that have either a full set (not including chromas), mulip
 # Current Status:
 
 Continued due to new ways to get daily rewards. THERE IS CURRENTLY A GLITCH WHERE YOU CANNOT SEE THE ACTUAL LEVELS!
+
+
+#CONTRIBUTORS
+
+[@Soulis69420](https://github.com/Soulis69420)
