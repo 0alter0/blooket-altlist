@@ -57,7 +57,7 @@ Blooket altlist is just a moderatly big list of blooket accounts, I'll update th
 
 # Current Status:
 
-Continued due to new ways to get daily rewards. THERE IS CURRENTLY A GLITCH WHERE YOU CANNOT SEE THE ACTUAL LEVELS!
+Continued due to new ways to get daily rewards. **THERE IS CURRENTLY A GLITCH WHERE YOU CANNOT SEE THE ACTUAL LEVELS!**
 
 
 # Contributors
