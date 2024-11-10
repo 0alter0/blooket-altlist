@@ -50,4 +50,4 @@ Continued due to new ways to get daily rewards. THERE IS CURRENTLY A GLITCH WHER
 
 Want to contribute?
 Send an email to **blooketaltrequest@goldinbox.net** and we will review it. If you'd like to be put in with the contributors, just add your ***GitHub*** username.
-Your contribution is a big help! (Trolls will **NOT** be responded too nor given any contribution.)
+Your contribution is a big help! (Trolls will **NOT** be responded to nor given any contribution.)
