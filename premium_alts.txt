@@ -13,3 +13,11 @@ Blook Count: 10
 Tokens: 1,110
 Level: 39
 Account Tier: S
+
+Name: Le-BlooketCeo
+Email: olga01091983@rjostre.com
+Password: Blooket_ceo_0
+Blook Count: 10
+Tokens: 1,465
+Level: 39
+Account Tier: S
