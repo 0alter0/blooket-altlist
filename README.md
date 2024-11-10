@@ -48,3 +48,6 @@ Continued due to new ways to get daily rewards. THERE IS CURRENTLY A GLITCH WHER
 [@Soulis69420](https://github.com/Soulis69420)
 [@Hi9876543210](https://github.com/Hi9876543210)
 
+Want to contribute?
+Send an email to **blooketaltrequest@goldinbox.net** and we will review it. If you'd like to be put in with the contributors, just add your ***GitHub*** username.
+Your contribution is a big help! (Trolls will **NOT** be responded too nor given any contribution.)
