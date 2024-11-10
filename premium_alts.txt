@@ -5,4 +5,3 @@ Blook Count: 10
 Tokens: 1,375
 Level: 39
 Account Tier: A
-This account is not yet finished, sorry :/
