@@ -52,7 +52,7 @@ Blooket altlist is just a moderatly big list of blooket accounts, I'll update th
 
 # Future Plans:
 
-1. Maybe make a website that auto generates these.
+- [ ] Maybe make a website that auto generates these.
 
 
 # Current Status:
