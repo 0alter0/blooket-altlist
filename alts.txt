@@ -1,11 +1,3 @@
-Name: Le-BlooketCeo
-Email: olga01091983@rjostre.com
-Password: Blooket_ceo_0
-Blook Count: 0
-Tokens: 1,150
-Level: 39
-Account Tier: B
-
 Name: _xDiddler_
 Email: plastberg@netveplay.com
 Password: coK.sucker343
