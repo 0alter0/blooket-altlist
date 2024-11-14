@@ -18,7 +18,7 @@ If it's better for you, we've made a [site](https://blooket-alts.glitch.me) (ins
 
 <details>
   <summary><strong>Can you make the accounts have (number) coins?</strong></summary>
-  No, just wait 24 hours because I will dump 500+ tokens in the accounts every day.
+  No, just wait 24 hours because I will dump 500+ tokens every now and then.
 </details>
 
 <details>
