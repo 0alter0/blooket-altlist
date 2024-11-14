@@ -51,6 +51,11 @@ If it's better for you, we've made a [site](https://blooket-alts.glitch.me) (ins
   Maxed alts are alts that have either a full set (not including chromas), multiple full sets (not including chromas), or every blook (maybe a chroma).
 </details>
 
+<details>
+  <summary><strong>Why are maxed alts encrypted?</strong></summary>
+  Maxed alts are encrypted because people might login to them and destroy them, sorry but that's how it has to be.
+</details>
+
 
 # Future Plans:
 
