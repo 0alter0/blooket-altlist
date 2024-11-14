@@ -59,7 +59,7 @@ If it's better for you, we've made a [site](https://blooket-alts.glitch.me) (ins
 
 # Current Status:
 
-Continued due to new ways to get daily rewards. **THERE IS CURRENTLY A GLITCH WHERE YOU CANNOT SEE THE ACTUAL LEVELS!**
+Continued due to new ways to get daily rewards.
 
 
 # Contributors
