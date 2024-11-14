@@ -54,7 +54,7 @@ If it's better for you, we've made a [site](https://blooket-alts.glitch.me) (ins
 
 # Future Plans:
 
-- [ ] Maybe make a website that auto generates these.
+- [x] Maybe make a website that auto generates these. (I didn't really make a site to "auto make alts" but I did create a site with all the alts on it.)
 
 
 # Current Status:
