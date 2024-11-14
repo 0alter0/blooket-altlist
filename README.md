@@ -2,6 +2,8 @@
 
 Blooket altlist is just a moderatly big list of blooket accounts, I'll update these every now and then.
 
+If it's better for you, we've made a [site](https://blooket-alts.glitch.me) (inspired by Blooket Bot by Duck Life, their discord is on the site.)
+
 # FAQ (no one asks these, but I wanna clear up questions)
 
 <details>
