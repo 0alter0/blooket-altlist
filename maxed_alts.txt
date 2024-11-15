@@ -1,5 +1,5 @@
 Maxed alts will be ENCRYPTED. The only way to get the decrypt key is through contributing and through sticking with the team.
-(NOTE: everytime this is decrypted, the encryption changes.)
+(NOTE: everytime this is decrypted, the encryption changes. If too many people leak the decryption method(s), we will deploy a custom encryption that is extremely hard to crack.)
 
 zfzu: ldihgxmxyo
 gcmdo: hpvsvliibx@oeityjokgy.lfheuh.ivarl.sgx
