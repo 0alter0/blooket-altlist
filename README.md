@@ -64,7 +64,7 @@ If it's better for you, we've made a [site](https://blooket-alts.glitch.me)! (in
 
 # Current Status:
 
-Continued due to new ways to get daily rewards.
+Continued due to new ways to get daily rewards. The alt list will **NOT** be updated after creation. If an alt is created and people spend tokens, it most likely won't be edited.
 
 
 # Contributors
