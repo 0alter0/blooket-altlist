@@ -78,5 +78,4 @@ Your contribution is a big help! (Trolls will **NOT** be responded to nor given 
 
 # Adtional Info
 
-Need a proxy? Use [ours](https://redesigned-acorn-q77p5jjxvq9xhxw69-8080.app.github.dev)! We are hosting our own proxy for your use. This uses [Interstellar](https://discord.com/invite/interstellar) (Not made by us).
-
+**N/A**
