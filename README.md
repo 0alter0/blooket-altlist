@@ -64,8 +64,7 @@ If it's better for you, we've made a [site](https://blooket-alts.glitch.me)! (in
 
 # Current Status:
 
-Continued due to new ways to get daily rewards. The alt list will **NOT** be updated after creation. If an alt is created and people spend tokens, it most likely won't be edited.
-
+People (From Blooket) may be monitoring us. We believe this because one of our own encrypted alts (The maxxed alts) is suspended, either someone found out the encryption (Out of the **158,962,555,217,826,360,000** possible combinations), or it got flagged and now Blooket is watching us.
 
 # Contributors
 
